@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A spirit moving in the vvomen-preachers: or, Certaine quæres, vented and put forth unto this affronted, brazen-faced, strange, new feminine brood. Wherein they are proved to be rash, ignorant, ambitious, weake, vaine-glorious, prophane and proud, moved onely by the spirit of errour.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93687</idno>
+            <idno type="STC">Wing S4990</idno>
+            <idno type="STC">Thomason E324_10</idno>
+            <idno type="STC">ESTC R200613</idno>
+            <idno type="EEBO-CITATION">99861316</idno>
+            <idno type="PROQUEST">99861316</idno>
+            <idno type="VID">113448</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93687)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113448)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E324[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A spirit moving in the vvomen-preachers: or, Certaine quæres, vented and put forth unto this affronted, brazen-faced, strange, new feminine brood. Wherein they are proved to be rash, ignorant, ambitious, weake, vaine-glorious, prophane and proud, moved onely by the spirit of errour.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Shepheard, at the Bible in Tower-street, and William Ley, at Pauls Chaine neere Doctors Commons.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "feb: 23"; the second 6 in imprint date crossed out and date altered to 1645.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women clergy --  England --  Early works to 1800.</term>
+               <term>Misogyny --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113448:1"/>
+            <pb facs="tcp:113448:1" rendition="simple:additions"/>
+            <p>A SPIRIT MOVING IN The VVomen-Preachers: <hi>OR, CERTAJNE Q<g ref="char:V">Ʋ</g>AERES,</hi> Vented and put forth unto this affronted, brazen-faced, ſtrange, new <hi>Feminine Brood.</hi>
+            </p>
+            <p>Wherein they are proved to be raſh, ignorant, ambitious, weake, vaine-glorious, prophane and proud, moved onely by the ſpirit of errour.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Shepheard,</hi> at the Bible in Tower-ſtreet, and <hi>William Ley,</hi> at PAULS Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine neere Doctors Commons. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:113448:2"/>
+            <head>Certaine <hi>Quaeres</hi> vented and put forth to the Women-Preachers.</head>
+            <p>THough perhaps it had been much better and ſafer for me to have ſcorned to meddle with theſe ſilly frantick creatures, hereafter named, ſaying un<g ref="char:EOLhyphen"/>to them with abominated indignation, as the Prophet <hi>Iſay</hi> 30.22. ſpeaks of the covering of ſuperſtitious Images, as unto <hi>a m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſtruous cloth, g<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thee hence.</hi> Yet leſt theſe inſulting, in ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w falſe Propheteſſes <hi>(running unſent)</hi> ſhould too much inſult in their arrogant pride, that no man would, or could ratio<g ref="char:EOLhyphen"/>nally encounter their fooliſh, proud, vain-glorious inſolencies in preſuming to advance themſelves before, and over men, tranſgreſſing the rules of <hi>Nature, M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>deſtie, Divinitie, Diſcretion. Civilitie,</hi> &amp;c. in triumphing againſt Authoritie, contemning Lawes, and all things oppoſite unto their weak proceedings; I have choſen to encounter with theſe <hi>Syr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns<g ref="char:punc">▪</g>
+               </hi> the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aine of women and of Religion, by ſome <hi>Quaeres</hi> put forth unto them and the world, to diſcover their fooliſhne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:punc">▪</g> weakneſſe, pride, indiſcretion, inſolencie, and vain-glorious frenzie<g ref="char:punc">▪</g> How in ſtead of <hi>acting</hi> as the Spirit moves them (as all <hi>Sectaries</hi> pretend) are rather led by the ſpirit of darkneſſe, ignorance, and groſſe errour.</p>
+            <p>When the Devill firſt adventured to ſting the woman, and tempt her as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>weaker veſſell,</hi> ſo by her to ſting and undo all man-kind by all likely-hood, he k<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> well what a rare peece he had to deale with, naturally apt unto all miſchiefe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct all his plots and purpoſes, to diſturb the whole Fabrick of the Creation, and as neere as might be, to bring the whole world unto wofull deſolation. Witne<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> his after-work ſince the fall, having for the moſt part in all ages uſed eſpeci<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly this ſilly and weaker Sex, to atchieve and compaſſe all his greateſt plots and de<g ref="char:EOLhyphen"/>ſignes; who in all Kings, Princes, and Noblemens Courts, have been, and yet are his only Engins to effect all his exorbitant deſires. For when women beare <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> over men, having catched and bewitched them in their ſubtill ſnares, what <gap reason="illegible" resp="#PDCC" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> that they will not do for them? what requeſts or gifts will they refuſe them? what ſecrets will not theſe <hi>Dalilabs</hi> enforce, even from <hi>Samſons</hi> themſelves? So that for the moſt part, in all Kings, Princes and great mens Courts and houſes, they beare rule, and all things muſt be as they will, or elſe there is no peace <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Court nor Countrey, and many times the leſſe peace, the more they beare ſway and rule. And how extreamly do the moſt common laſcivious ſort of them undo men of all ſorts and degrees, whilſt be witch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d with <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb n="3" facs="tcp:113448:2"/>
+            <p>But of all other, the <hi>Jeſuites, Prieſts,</hi> and <hi>Separatiſts</hi> of our times and Church, have made, and ever do make ſingular uſe of theſe female Creatures: The former, to learne from them all their husbands ſecrets, to make uſe of them, both for pre<g ref="char:EOLhyphen"/>vention of all deſignes againſt them, and advancement of their Kingdome: there<g ref="char:EOLhyphen"/>by to inſinuate into their husbands favours and eſtates, to lead them which way they liſt, to their unlawfull pleaſures, having them once catcht in the ſnares of Confeſſion, to over-awe them one way, and pleaſe them the other way with ſlight and light penances. And our <hi>Separatiſts</hi> in this Kingdome are not in this kind to learne to ſhufflle their Cards, and how <hi>to lead captive</hi> (as the Apoſtle ſpeaks, 2 <hi>Tim.</hi> 3.6, 7.) <hi>ſilly women laden with divers luſts, ever learning, and ne<g ref="char:EOLhyphen"/>ver leanred, nor able to come unto the knowledge of the Truth: under colour of long prayers, devouring widdowes houſes;</hi> that ſo by them they may attaine unto all their unlawfull ſecret deſires; moſt of them (for the moſt part) wearing the bree<g ref="char:EOLhyphen"/>ches, and ſo draw and lead their husbands by the noſe, which way they pleaſe, by degrees waſting their eſtates, and furniſhing their pretended holy brother of the Separation, or Schiſme, with whatſoever he pleaſes, not diſpleaſing this man of God, as they call him, (though perhaps a wolfe in ſheeps cloathing) whoſe inſi<g ref="char:EOLhyphen"/>nuation with this Female Sex, hath ſo prevailed with this poore ignorant ſort of Creatures, that puffed up with pride, divers of them have lately advanced them<g ref="char:EOLhyphen"/>ſelves with vain-glorious arrogance, to preach in mixt Congregations of men and women, in an inſolent way, ſo uſurping authority over men, and aſſuming a calling unwarranted by the word of God for women to uſe: yet all under colour, that <hi>they act as the Spirit moves them;</hi> wherein they highly wrong and abuſe the motions of that bleſſed Spirit, to make him to be the Author of ſo much Schiſme, diſorder, and confuſion; they being rather led by the ſtrong deluſions of the Prince of darkneſſe, to contenance their ignorance, pride, and vain-glorie, as <hi>Hacket</hi> and <hi>Iohn a Leyden</hi> were, who pretended ſpirituall revelations for all the villanies they committed, even when they were to give up the ghoſt, dying in the midſt of ſuch blaſphemies.</p>
+            <p>Wherefore that the vanitie, weakneſſe, ignorance, pride, ambition, and vain-glorie of theſe poore Creatures may be diſcovered, and that they may ſee upon what ſandie foundations they build their Babels of confuſion in their pretended Congregations, and may repent, and reforme themſelves for the time to come, I have hereafter provided from the Word ſome few <hi>Quaeres</hi> for them, to ſhew both to the world and themſelves, how far they are from any lawfull authoritie of preaching unto others, who themſelves are ſo ſhort of knowledge being groſſe<g ref="char:EOLhyphen"/>ly ignorant, diſabled either by precept, rule, or example of holy Scripture, ſo proudly, groſſely, and ignorantly to behave themſelves: after which (God wil<g ref="char:EOLhyphen"/>ling) I will encounter, if the paper faile me not, with their <hi>Fort-Royall,</hi> to over<g ref="char:EOLhyphen"/>throw it, ſhewing that their actions are not regulated and ruled by a right, but by a deluding ſpirit.</p>
+            <p>But ere we come to our <hi>Quaeres,</hi> let us firſt ſtate the condition and nature of that
+<pb n="4" facs="tcp:113448:3"/>Sex we are to intreat of; what they are by <hi>Creation,</hi> and what they are by <hi>Dege<g ref="char:EOLhyphen"/>neration.</hi> 1 By <hi>Creation,</hi> we find her equall unto the man, a helper meet for him, <hi>Gen.</hi> 2.18. 2 By <hi>Degeneration,</hi> we find her his inferiour, the <hi>weaker veſſell,</hi> as the Apoſtle ſpeaks, 1 <hi>Pet.</hi> 3.7. made ſubject unto mans government, her will for over ſubjected unto his will, he to beare rule over her, <hi>Gen.</hi> 3.16. ſhe becoming therwith ignorant, ſhallow, proud, ambitious, fantaſtike, inconſtant, paſſionate, and vaine-glorious, indiſcreet, eaſily led into extreames, either in good, or evill: which drew <hi>Solomons</hi> choice to be ſo <hi>as to chooſe any malice, ſave the malice of a woman.</hi> In which ſubjected eſtate, ſhe was no more to weare her haire down along, as in the Creation, but to weare it tyed up for a covering, 1 <hi>Cor.</hi> 11.15. only in one caſe of jealouſie, accuſed by her husband, when ſhe was to drinke the bitter water of her Triall, the Prieſt then for that time of her accuſation was to uncover her head, and ſtand during that ſtorme, with her haire downe as his equall, whereby it ap<g ref="char:EOLhyphen"/>pears, that all her life time, ſhe is ever to be in ſubj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction unto the man, and not to advance her ſelfe, by diſ-honouring mankinde, in the preſence of men to put her ſelfe before men, as theſe women Preachers, we are now in purſuit of have done, unto whom we preſent theſe enſuing <hi>Quaeres.</hi>
+            </p>
+            <p>
+               <hi>Quaere</hi> 1.</p>
+            <p>Why theſe ſillie weake women, without calling, example, or precept dare un<g ref="char:EOLhyphen"/>dertake to uſurp the Office of Preaching in a mixed Congregation of men and wo<g ref="char:EOLhyphen"/>men, ſeeing the Scriptures never ſpeake of any womens teaching of men, but of being taught by men, or els to be ſilent; as it is <hi>Tit.</hi> 2.3. <hi>The aged women like<g ref="char:EOLhyphen"/>wiſe, that they be in behaviour as becometh holineſſe, not falſe accuſers, not given to much wine, teachers of good things, that they may teach the younger women to be ſober, to love their husbands, to love their children, to be diſcreet, chaſt, keepers at home, good, obedient to their own husbands, that the Word of God be not blaſphemed.</hi> Where we ſee that thoſe who in thoſe dayes were permitted to teach, were of the ancienter, graver, and approved ſort, not everie upſtart youngſter as now <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> This permiſſion was only to teach women, not men.</p>
+            <p>
+               <hi>Quaere</hi> 2.</p>
+            <p>Seeing as it is ſaid, 1 <hi>Cor.</hi> 14.22. <hi>The ſpirits of the Prophets are ſubject to the Prophets:</hi> (not Propheteſſes) they having no warrant or right Spirit to be ruled by in this grand action, ſave by a ſeeming ſpirit of errour, why yet they will in<g ref="char:EOLhyphen"/>trude themſelves in this grand office of Preaching, the weight whereof made the Apoſtle <hi>Paul</hi> the beſt Preacher, (next, our bleſſed Saviour) cry out, <hi>O who is ſuffici<g ref="char:EOLhyphen"/>ent for theſe things?</hi> ſure not weak, ignorant ſilly women. But, <hi>who is ſo bold as blind bayard?</hi> ſaith the Proverb, <hi>It muſt needs be a ſilly flock where the Ewe bears the Bell.</hi>
+            </p>
+            <p>
+               <hi>Quaere</hi> 3.</p>
+            <p>Seeing women are commanded to keep ſilence in the Churches not being permit<g ref="char:EOLhyphen"/>ted to ſpeak there, but to be under obedience, and if they would learn any thing,
+<pb n="5" facs="tcp:113448:3"/>to aske at their husbands at home, as it is, 1 <hi>Cor.</hi> 14 34, 35. <hi>Let your women keep ſilence in your Churches, for it is not permitted unto them to ſpeake, but they are commanded to be under obedience, as alſo ſaith the Law: and if they will learn any thing, let them aske their husbands at home, for it is a ſhame for women to ſpeake in the Church.</hi> By what diſcretion, modeſty therefore, or ſhameleſſe im<g ref="char:EOLhyphen"/>pudence, dare they be thus contumaciouſly inſolent thus to abuſe Religion, raiſe and foment Schiſmes and Errours in the Church, to undertake to teach and preach in a mixt Congregation of men and women. For to preach unto a mixt Congrega<g ref="char:EOLhyphen"/>tion in a Houſe and in the Church is all one in effect, Churches being then by the Apoſtle thought to be the fitteſt and moſt decent places for preaching of the Word in thoſe dayes, though all ſorts of Sectaries do now ſtrive to diſcredit the ſame, by Houſe-Preaching by all appearance, having ſuch lights (as Chriſt told the Scribes and Phariſees) <hi>becauſe their deeds were evill</hi>
+            </p>
+            <p>
+               <hi>Quaere</hi> 4.</p>
+            <p>Seeing is it written, <hi>That to one is given the Word of wiſdome, to another the word of knowledge by the ſame Spirit; to another the gifts of healing by the ſame Spi<g ref="char:EOLhyphen"/>rit, to another the working of miracles, to another propheſie, to another the diſcerning of ſpirits, to another divers kinds of tongues,</hi> &amp;c. 1 <hi>Cor.</hi> 12.8, 9, 10. Now ſeeing the ſame Spirit is ſaid to worke the ſame in every man, without mentioning any women for ſuch endowments; By what authority &amp; power then can theſe fe<g ref="char:EOLhyphen"/>male Preachers uſurp this office of preaching? contrary to the Spirits intention, to fall a preaching as is ſaid unſent or uncalled.</p>
+            <p>
+               <hi>Quaere</hi> 5.</p>
+            <p>Seeing the Apoſtle in re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>koing up the endowments of women in the choice of ſuch appointed for ſome inferiour ſervices in thoſe daies, makes no mention of preaching amongſt the reſt, (which ſurely he would not have forgotten if any ſuch had then been in the Church) ſaying only, <hi>If ſhe have been well reported of, if ſhe have brought up children, if ſhe have lodged ſtrangers, if ſhe have waſhed the Saints feet, if ſhe have releeved the afflicted, if ſhe have diligently followed every good work;</hi> Yet in all theſe ſpeaks not of preaching or teaching, 1 <hi>Tim.</hi> 3.16. by what Authority dare thoſe untoward vaineglorious raſh indiſcreet creatures, pre<g ref="char:EOLhyphen"/>ſume to preach or teach in mixt Congregations of men, and women: which place they uſe in Houſes in place of the Church.</p>
+            <p>
+               <hi>Quaere</hi> 6.</p>
+            <p>Seeing the Apoſtle writing to <hi>Timothy</hi> concerning the impoſition of hands, and ordination of preaching Miniſters, is wondrous choice and warie in warning of him, <hi>To lay hands ſuddenly upon no man, neither be pertaker of other mens ſins; keep thy ſelf pure,</hi> 1 <hi>Tim.</hi> 5.22. therein makes no mention of ordination, or appoint<g ref="char:EOLhyphen"/>ing of women, or impoſition of hands upon any of them, by what authority dare they be ſo bold as to be intruders in this ſacred worke of preaching the Word pro<g ref="char:EOLhyphen"/>per ever only unto thoſe Miniſters, who have a lawfull Calling and Ordination?</p>
+            <pb n="6" facs="tcp:113448:4"/>
+            <p>
+               <hi>Quaere</hi> 7.</p>
+            <p>Seeing Chriſt at his aſcenſion up on high, when he had led Captivitie cap<g ref="char:EOLhyphen"/>tive, furniſhed his Church with all ſeverall offices and endowments for the per<g ref="char:EOLhyphen"/>fecting of his Church with ſeverall Miniſteriall functions; <hi>Epheſ.</hi> 4.11, 12, 13. <hi>And he gave ſome Apoſtles, and ſome Prophets, and ſome Evangeliſts, and ſome Pa<g ref="char:EOLhyphen"/>ſtours and Trachers, for the perfecting of the Saints, for the work of the Miniſtrie, and for the edifying of the body of the Church, till we all come unto the unity of the of the faith, and of the knowledge of the Son of God, unto a perfect man, into the mea<g ref="char:EOLhyphen"/>ſure of the ſtature of the fulneſſe of Chriſt,</hi> &amp;c. Woman Preachers being here left out and exempted from having any ſhare in this great Miniſteriall worke, not no expoſitor ever having dreamt or thought of this their late bold intruding impu<g ref="char:EOLhyphen"/>dence, the Churches fullneſſe and perfecting having no need of their publike gifts. By what warrant or authority dare they be ſuch bold intruders, to take upon them to teach or preach unto men, who are commanded by the Apoſtle, 1 <hi>Tim.</hi> 2.11. <hi>To learne in ſilence what all ſubjection?</hi>
+            </p>
+            <p>
+               <hi>Quaere</hi> 8.</p>
+            <p>Seeing that it is written, 1 <hi>Tim.</hi> 2.12. <hi>But I ſuffer not a woman to teach, nor uſury authoritie over the man; but to be in ſilence.</hi> Seeing then the Apoſtle unto all the fore-ſaid doth directly forbid their preaching and teaching, commanding their ſilence: By what authoritie dare they, or can they be ſo bold, impudent, affronted, and ſhameleſſe, as to take upon them to teach, or preach before men in a Congregation, therein ſeeming to aſſume authoritie and ſuperioritie over men, contrarie to the expreſſe rule of the Apoſtle.</p>
+            <p>
+               <hi>Quaere</hi> 9.</p>
+            <p>Whether or not theſe uſurping vain-glorious women (all the fore-named rea<g ref="char:EOLhyphen"/>ſons againſt them being conſidered) teaching otherwiſe, and not conſenting to wholſome words, even the words of our Lord Jeſus Chriſt, which are according to godlineſſe, be not as is there ſhewed of that prophane rude number, reckoned up, 1 <hi>Tim.</hi> 6.3, 4. <hi>Proud, knowing nothing, but doating about queſtions, and ſtrifes of Words, whereof cometh envie, ſtrife, railings, evill ſurmiſings, perverſe diſputings of men corrupt and deſtitute of the truth, ſuppoſing that gaine is godlineſſe, from ſuch withdraw your ſelves:</hi> being ſilly women, ever learning, and yet never learned, nor able to come unto the knowledge of the Truth, 1 <hi>Tim.</hi> 3.6, 7.</p>
+            <p>
+               <hi>Objection.</hi>
+            </p>
+            <p>But all the Rabble of Separatiſts, thoſe and all others, have this ſhield and buck<g ref="char:EOLhyphen"/>ler, wherewith they ſhroud themſelves in all their undertakings, <hi>That they only act as the Spirit moves them.</hi>
+            </p>
+            <p>
+               <hi>Anſwer.</hi>
+            </p>
+            <p>A falſe and groſly ignorant Objection, a grand untruth, and imputation put up<g ref="char:EOLhyphen"/>on the bleſſed Spirit of Truth, who leade men into all Truth, and countenances no groſſe errours of Schiſmes, or errours in any. But to anſwer them; 1 Ingene<g ref="char:EOLhyphen"/>rall,
+<pb n="7" facs="tcp:113448:4"/>and then in particular: Certaine it is, that as truly might that grand Impo<g ref="char:EOLhyphen"/>ſtour <hi>Mahomet,</hi> that counterfeit Chriſt <hi>Hacket,</hi> executed in Queene Elizabeths time; that blaſphemous Butcher <hi>John of Leyden,</hi> who proclaimed himſelfe <hi>King of Righteouſneſſe,</hi> pleading Revelations, Raptures, and Enthuſiaſmes of the Spi<g ref="char:EOLhyphen"/>rits motions for all they did, or ſaid; plead the Spirits Authoritie and Revelati<g ref="char:EOLhyphen"/>ons, as theſe our ſhallow, weak, ignorant, preaching Siſters may, and all alike. For if this grand Impoſture might paſſe currant, that men might impute all their groſſe dreames and fooleries on the Spirits Revelations, what groſſe impieties and enormities might they not father on the Spirits Revelations, <hi>In infinitum?</hi> And ſo abuſe the Spirit, the world, and themſelves, under a pretended ſhew of holi<g ref="char:EOLhyphen"/>neſſe, and voluntarie counterfeit humilitie, without any warrant from the Word, the rules whereof muſt be our warrant in all our actions, without which the Spi<g ref="char:EOLhyphen"/>rit moves not at all, but as he witneſſeth unto the Truth of the Word revealed. Thus much in generall.</p>
+            <p>But more particularly a little to aſſault and batter this their <hi>Fort-Royall,</hi> let us ſurvey three things touching the Spirit, which will cleare the point, I ſuppoſe:
+<list>
+                  <item>1 Let us ſurvey briefly, <hi>The Spirits motions under the Law before Chriſts Incar<g ref="char:EOLhyphen"/>nation.</hi>
+                  </item>
+                  <item>2 <hi>The Spirits miſſion and offices aſſigned him by Chriſt, at his miſſion from the Father and the Son.</hi>
+                  </item>
+                  <item>3 <hi>The Spirits limitations by Chriſt, at his miſſion and ſending.</hi>
+                  </item>
+               </list> And ſo we will conclude this ſhort diſcourſe.</p>
+            <p>Firſt, for the <hi>Spirits motions under the Law before Chriſts Incarnation,</hi> wee read of divers motions of the Spirit: Firſt, that in the Creation, <hi>The Spirit of God moved upon the waters, Geneſ.</hi> 1.2. Then we read of divers other motions of the Spirit. In <hi>Joſhuah,</hi> full thereof, <hi>Deut.</hi> 34.9. In <hi>Iephthah, Iudg.</hi> 11.29. His moving in <hi>David,</hi> 1 <hi>Sam.</hi> 16.13. In <hi>Saul,</hi> 1 <hi>Sam.</hi> 10.10. On <hi>Eliah,</hi> running before <hi>Ahab</hi> unto the entrance of <hi>Iezreel,</hi> 1 <hi>King.</hi> 18.16. The ſpirit of the Lord falling on <hi>Ezekiel, Ezek.</hi> 11.5. And (in an extraordinarie caſe) we read of two women Propheteſſes; <hi>Deborah,</hi> who judged Iſrael, <hi>Iudg.</hi> 4 4. and of <hi>Huldah</hi> the Propheteſſe, 2 <hi>King.</hi> 22.14. From which two particular diſpenſations, for that time to two women, can be no generall deducted for theſe women-Preachers, a<g ref="char:EOLhyphen"/>gainſt the warrant and rules of the word of God, as hath been ſhewed. And we read alſo of another motion of the Spirit, <hi>Iſa.</hi> 30.21. <hi>In a voyce behind us, ſaying. This is the way, walk in it,</hi> &amp;c. which can be no warrant for theſe foreſaid women to preach: for there the Spirits directions for our walking is, in the <hi>Way of Holi<g ref="char:EOLhyphen"/>neſſe,</hi> and <hi>Divine Rules:</hi> not into Schiſmes, Rents, Deviations, Diviſions, and Errours contrarie unto the expreſſe Rules of the Word, and ſo I have done with the firſt thing, <hi>The Spirits motions before Chriſts Incarnation.</hi> From whence they can deduct no warrant, or example for their preaching.</p>
+            <p>The ſecond thing is, <hi>The Spirits miſſion by Chriſt, with the Offices aſſigned un<g ref="char:EOLhyphen"/>to him by Chriſt:</hi> For his <hi>Miſſion,</hi> Hee is ſent by the Father in Chriſts Name, a Spirit of Truth, whom all in the world cannot receive, <hi>Joh.</hi> 14.17. whoſe Offices
+<pb n="6" facs="tcp:113448:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:113448:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:113448:6"/>are to comfort us, to dwell and be in us, to teach us all things, to bring unto our remembrance all things taught us by Chriſt, <hi>Joh.</hi> 14.26. to teſtifie of Chriſt, <hi>Joh.</hi> 15.26. to guide and lead us in all truth, <hi>Joh.</hi> 16.13. to ſhew us things to come, <hi>Joh.</hi> 16.14. and <hi>to convince the World of Sin, of Righteouſneſſe, and of Judgement.</hi> From all which there can be no warrant drawne, for his moving of women to preach; for, his motions are according unto the doctrine of Chriſt, and the Apo<g ref="char:EOLhyphen"/>ſtles from the Spirit of Chriſt, who teach us no ſuch Doctrine, but quite contra<g ref="char:EOLhyphen"/>rie, as hath been ſhewed. For this Bleſſed Spirit of Chriſt is ſtill the ſame, which is ſaid to be, <hi>A Spirit of Wiſdoms and underſtanding, the Spirit of counſell and might, the Spirit of knowledge, and of the feare of the Lord; Iſa.</hi> 11.2. A Spirit (as is ſhewed) leading us into the practice of all known and revealed Truths from Chriſt, not the dreames, errours, fables, and pretended raptures of theſe ſilly abu<g ref="char:EOLhyphen"/>ſed Sectaries.</p>
+            <p>The laſt thing is, <hi>The Spirits limitations by Chriſt:</hi> 1 Negative; 2 Affirma<g ref="char:EOLhyphen"/>tive. 1 Negative, <hi>For he ſhall not ſpeake of himſelfe.</hi> 2 Affirmative, but <hi>Whatſo<g ref="char:EOLhyphen"/>ever he ſhall heare, that he ſhall ſpeake, and he will ſhew you things to come; hee ſhall glorifie me, for he ſhall receive of mine, and ſhall ſhew it unto you.</hi> Intimating, that if the Spirit ſhould guide and lead us other wayes, than in the truths and rules re<g ref="char:EOLhyphen"/>ceived by Chriſt in the Word, the teſtimony of ſuch a ſpirit were not to be belee<g ref="char:EOLhyphen"/>ved, neither led us in the right way, which ſhould not this way glorifie Chriſt.</p>
+            <p>By all which we may gather, that theſe poore ſilly women, tranſgreſſing (as is ſhewed) againſt the rules of the word, delivered by the Spirit of Chriſt in the Apoſtle, which he affirmeth <hi>to be the Commandements of the Lord,</hi> 1 <hi>Cor.</hi> 14.37. <hi>are ignorant, and like to remaine in ignorance,</hi> 1 <hi>Cor.</hi> 14.38. led by the ſpirit of errour in all their vain-glorious, raſh impudencies, whoſe <hi>Syren</hi> enchanting ſongs are carefully to be avoyded of all, following the Apoſtles rule, <hi>Rom.</hi> 15.17, 18. <hi>Now I beſeech you brethren, mark them that cauſe diviſions and offences contrarie to the doctrine which yee have learned, and avoyd them:</hi> For they that <hi>are ſuch, ſerve not our Lord Jeſus Chriſt, but their owne belly; and by good Words and faire ſpeeches deceive the hearts of the ſimple.</hi> For when ſuch like falſe Intruders, took upon them to be Exoriſts, and to conjure evill ſpirits, in the name of the Lord Jeſus; the Devill himſelfe refuſed to owne, or know ſuch.</p>
+            <epigraph>
+               <bibl>
+                  <hi>ACTS XIX. XV.</hi>
+               </bibl>
+               <q>Jeſus I know, and Paul I know; but who are yee?</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
